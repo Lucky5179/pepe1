@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Black Ops One";
+  font-style: normal;
+  font-weight: 400;
+  src: url(/s/blackopsone/v20/qWcsB6-ypo7xBdr6Xshe96H3aDvbsg.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Bungee";
+  font-style: normal;
+  font-weight: 400;
+  src: url(/s/bungee/v14/N0bU2SZBIuF2PU_0DXRw.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Bungee Inline";
+  font-style: normal;
+  font-weight: 400;
+  src: url(/s/bungeeinline/v16/Gg8zN58UcgnlCweMrih332VuPGV__A.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Bungee Shade";
+  font-style: normal;
+  font-weight: 400;
+  src: url(/s/bungeeshade/v14/DtVkJxarWL0t2KdzK3oI_jkc6SjW.ttf)
+    format("truetype");
+}
